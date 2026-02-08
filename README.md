@@ -27,13 +27,14 @@
 
 Nous avons de grands projets pour Scan Tracker. Voici ce qui arrive prochainement :
 
-- [ ] **🌐 Détection Universelle :** Étendre la détection automatique des nouveaux chapitres à **n'importe quel site** de scan/webtoon (pas seulement mangas-origines).
-- [ ] **🔗 Partage Social :** Possibilité de partager sa bibliothèque ou sa liste "À lire" via un lien unique ou un code ami.
-- [ ] **📧 Notifications Email :** Recevez un récapitulatif hebdomadaire ou instantané des nouvelles sorties.
-- [ ] **📱 Application Mobile Compagnon :** Une app (iOS/Android) pour recevoir les notifications push directement sur téléphone.
-- [ ] **☁️ Synchronisation Cross-Device :** Commencez votre lecture sur PC, finissez-la sur mobile. Tout est synchronisé.
-- [ ] **🌍 Traduis dans toute les langues :** L'extension doit pouvoir être multi-languages.
-- [ ] **Et encore d'autres choses si j'y pense 😝
+- [ ] **🌐 Détection Universelle :** Étendre la détection automatique des nouveaux chapitres à **n'importe quel site** de scan/webtoon. <br> <sub>*Et essayer de ne pas se faire taper dessus par CloudFlare pour le "scraping"...* 🫣</sub>
+- [ ] **🔗 Partage Social :** Possibilité de partager sa bibliothèque ou sa liste "À lire" via un lien unique ou un code ami. <br> <sub>*Même si mon meilleur ami est une Pastabox au saumon.*</sub>
+- [ ] **📧 Notifications Email :** Recevez un récapitulatif hebdomadaire ou instantané des nouvelles sorties. <br> <sub>*Histoire de remplir vos boîtes mails encore plus vite.*</sub>
+- [ ] **📱 Application Mobile Compagnon :** Une app (iOS/Android) pour recevoir les notifications push directement sur téléphone. <br> <sub>*Génération Ultra-Connectée.*</sub>
+- [ ] **☁️ Synchronisation Cross-Device :** Commencez votre lecture sur PC, finissez-la sur mobile. Tout est synchronisé. <br> <sub>*Metro ➔ Manga ➔ Boulot ➔ Manga ➔ Dodo ➔ Manga.*</sub>
+- [ ] **🌍 Traduction Internationale :** L'extension doit pouvoir être multi-langues. <br> <sub>*Toujours penser aux autres.*</sub>
+- [ ] **🐼 Créer un logo...** <br> ~~*J'abuse de pas l'avoir fait...*~~
+- [ ] **Et encore d'autres choses si j'y pense** 😝 <br> <sub>*Je pense, donc je suis.*</sub>
 
 ---
 
@@ -51,7 +52,7 @@ Voici comment l'installer manuellement :
 
 1.  **Cloner le projet :**
     ```bash
-    git clone [https://github.com/VOTRE-PSEUDO/scan-tracker.git](https://github.com/VOTRE-PSEUDO/scan-tracker.git)
+    git clone https://github.com/VOTRE-PSEUDO/scan-tracker.git
     ```
 2.  Ouvrez Google Chrome et allez sur `chrome://extensions`.
 3.  Activez le **Mode développeur** (bouton en haut à droite).
